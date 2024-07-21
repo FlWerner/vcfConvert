@@ -6,4 +6,5 @@ Row: Vorname, Nachname, Handy privat, Tel. privat, E-Mail privat, Gev.-Datum, St
 For Example: 
 Florian,Mustermann,0123 456789,0711 12345,max.mustermann@mustermail.de,01.01.1999,Musterstraße 7,Musterstadt,12345
 
-
+It is important that you delete the HEAD in the CSV File. 
+The Birthday will parsed from (DD.MM.JJJJ) to (JJJJMMDD).
